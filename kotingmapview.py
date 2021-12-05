@@ -15,5 +15,5 @@ class KotingMapView(MapView):
     
     def get_markets_in_fov(self, *args):
         print(self.get_bbox())
-        print("AAAAAAAAAHHHHHH")
+        print("AAAAAAAAAHHHHHH atests afdklakldflka ")
         #aaahh
